@@ -15,4 +15,7 @@ group :development, :test do
   gem 'pry'
   gem 'shotgun'
   gem 'sqlite3'
+
+  gem 'rspec', '~> 2.13.0'
+  gem 'capybara', '~> 2.1.0'
 end
